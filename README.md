@@ -4,7 +4,7 @@ tapi versi kecilnya aja ya :D
 
 # instalation
 
-`npm install jquery-lite`
+`npm i jquery-lite-thq`
 
 # Example
 
@@ -18,7 +18,7 @@ tapi versi kecilnya aja ya :D
 # Import
 
 ```
-import $ from 'jquery-lite'
+import $ from 'jquery-lite-thq'
 ```
 
 # Add Event

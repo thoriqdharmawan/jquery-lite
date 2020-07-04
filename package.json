@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/thoriqdharmawan/jquery-lite/issues"
   },
-  "homepage": "https://github.com/thoriqdharmawan/jquery-lite#readme"
+  "homepage": "https://github.com/thoriqdharmawan/jquery-lite#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }

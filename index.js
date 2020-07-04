@@ -18,8 +18,3 @@ const $ = (selector) => {
   }
   return self
 }
-
-$('h3').on("click", function () {
-  alert("clicked")
-})
-  
